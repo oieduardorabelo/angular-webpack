@@ -9,4 +9,4 @@ Using Angular in a more component way and happy development :P
 
 #### License
 
-()[http://eduardorabelo.mit]
+(http://eduardorabelo.mit-license.org)[http://eduardorabelo.mit-license.org]
